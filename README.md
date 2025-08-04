@@ -111,7 +111,7 @@ Disfruto del ciclo de vida completo del desarrollo, desde la conceptualización 
 
 ## 🌱 Actualmente Aprendiendo y Construyendo
 
-Actualmente estoy enfocado en el desarrollo de un **portal de tareas y avisos**, una aplicación full-stack para optimizar la gestión de mi equipo de trabajo, aplicando mis conocimientos en React y .NET.
+Actualmente estoy enfocado en el desarrollo de un **portal de tareas y avisos**, una aplicación full-stack para optimizar la gestión de mi equipo de trabajo, aplicando mis conocimientos en React y Python.
 
 ---
 
