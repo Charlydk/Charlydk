@@ -27,7 +27,7 @@ Disfruto del ciclo de vida completo del desarrollo, desde la conceptualización 
             <b>Ver Demo</b>
           </a>
           |
-          <a href="https://github.com/Charlydk/fabian-bernardino-portfolio" target="_blank">
+          <a href="https://github.com/Charlydk/Portfolio_personal" target="_blank">
             <b>Ver Repositorio</b>
           </a>
         </p>
@@ -52,7 +52,29 @@ Disfruto del ciclo de vida completo del desarrollo, desde la conceptualización 
           </a>
         </p>
         <p>
-          Aplicación completa con modo multijugador en tiempo real usando SignalR, backend en ASP.NET Core, base de datos PostgreSQL y frontend en Vanilla JS. Desplegado con Docker en Google Cloud Run.
+          Aplicación completa con modo multijugador en tiempo real usando SignalR, backend en ASP.NET Core, base de datos PostgreSQL y frontend en Vanilla JS.
+        </p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <h3 align="center">Portal GTR (Gestión WFM Call Center)</h3>
+      <div align="center">
+        <a href="https://github.com/Charlydk/Portal_GTR_Publico" target="_blank">
+          <img src="https://raw.githubusercontent.com/Charlydk/Portal_GTR_Publico/main/frontend/portal-gtr-frontend/public/captura_inicio_pgtr.png" width="400" alt="Portal GTR Demo">
+        </a>
+        <p>
+          <a href="https://charlydk.github.io/Portfolio_personal/" target="_blank">
+            <b>Ver Demo en Portfolio</b>
+          </a>
+          |
+          <a href="https://github.com/Charlydk/Portal_GTR_Publico" target="_blank">
+            <b>Ver Repositorio</b>
+          </a>
+        </p>
+        <p>
+          Una aplicación web de gestión full-stack con backend en FastAPI (Python) y frontend en React. Unifica dos portales internos, integra una API externa y está desplegado en la nube (render y Supabase).
         </p>
       </div>
     </td>
@@ -111,7 +133,7 @@ Disfruto del ciclo de vida completo del desarrollo, desde la conceptualización 
 
 ## 🌱 Actualmente Aprendiendo y Construyendo
 
-Actualmente estoy enfocado en el desarrollo de un **portal de tareas y avisos**, una aplicación full-stack para optimizar la gestión de mi equipo de trabajo, aplicando mis conocimientos en React y Python.
+Actualmente sigo enfocado en el desarrollo del **portal del GTR ** para Call center, una aplicación full-stack para optimizar la gestión de mi equipo de trabajo, aplicando mis conocimientos en React y Python.
 
 ---
 
