@@ -1,6 +1,6 @@
 # ¡Hola! Soy Fabián Bernardino 👋
 
-### Supervisor de Workforce | Desarrollador Full-Stack & Analista de Datos
+### Supervisor de Workforce | Desarrollador Full-Stack & Analista de Datos 
 
 <br>
 
